@@ -8,7 +8,7 @@
 
 ## 🎮 Play Now
 
-👉 **[Play on GitHub Pages](https://yourusername.github.io/apex-dash)**
+👉 **[Play on GitHub Pages](https://Tolits16.github.io/apex-dash)**
 
 No installation. No downloads. Opens directly in your browser.
 
@@ -89,7 +89,7 @@ apex-dash/
 
 ## 👥 Team
 
-### [Your Name] — Lead Developer · Game Systems
+### Master Cedric Lagatuz — Lead Developer · Game Systems
 - Vehicle physics and canvas rendering
 - Ghost replay system and localStorage integration
 - Timer, checkpoint, and finish line logic
