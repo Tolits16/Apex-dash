@@ -100,7 +100,7 @@ apex-dash/
 
 ---
 
-### [Jerome Duran] — UI/UX Developer · Web & Level Design
+### Jerome Duran — UI/UX Developer · Web & Level Design
 - Track layout design and obstacle placement  
 - HUD, leaderboard display, and score screens
 - GitHub Pages website (landing page + team page)
