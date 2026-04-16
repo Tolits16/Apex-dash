@@ -96,7 +96,7 @@ apex-dash/
 - Speed boost and obstacle collision detection
 - Menu and game-over screen implementation
 
-🔗 [github.com/yourusername](https://github.com/yourusername)
+🔗 [github.com/Tolits16](https://github.com/Tolits16)
 
 ---
 
@@ -107,14 +107,14 @@ apex-dash/
 - Visual theming, CSS animations, and asset creation
 - README documentation and screenshots
 
-🔗 [github.com/partnerusername](https://github.com/partnerusername)
+🔗 [github.com/jeromeduran](https://github.com/jeromeduran)
 
 ---
 
 ## 🚀 Running Locally
 
 ```bash
-git clone https://github.com/yourusername/apex-dash.git
+git clone https://github.com/Tolits16/apex-dash.git
 cd apex-dash
 
 # Option 1: Open directly (game works offline)
