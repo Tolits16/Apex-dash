@@ -8,7 +8,7 @@
 
 ## 🎮 Play Now
 
-👉 **[Play on GitHub Pages](https://Tolits16.github.io/apex-dash)**
+👉 **[Play on GitHub Pages](https://Tolits16.github.io/apex-dash/game/)**
 
 No installation. No downloads. Opens directly in your browser.
 
@@ -72,6 +72,7 @@ apex-dash/
 └── README.md
 ```
 
+
 ---
 
 ## 🛠️ Tech Stack
@@ -100,7 +101,7 @@ apex-dash/
 
 ---
 
-### [Partner Name] — UI/UX Developer · Web & Level Design
+### Jerome Duran — UI/UX Developer · Web & Level Design
 - Track layout design and obstacle placement  
 - HUD, leaderboard display, and score screens
 - GitHub Pages website (landing page + team page)
@@ -123,35 +124,3 @@ open index.html
 # Option 2: Use a local server (recommended)
 npx serve .
 # Then visit http://localhost:3000
-```
-
-> **Note:** The game can be opened directly as a file (`file://`) since it uses no server-side code. However, a local server avoids any `iframe` origin restrictions when embedding the game in the website.
-
----
-
-## 📋 Project Requirements Checklist
-
-- [x] **Menu Screen** with title, controls reference, and start prompt
-- [x] **Playable Level** with vehicle physics, track, boosts, obstacles
-- [x] **Score/Finish Screen** with final time, leaderboard, and replay option
-- [x] **Ghost System** — records and replays best run
-- [x] **2-Page Website** — Landing page + Team page
-- [x] **GitHub Pages** deployment
-- [x] **5+ commits per student** (see commit history)
-- [x] **README** with description, controls, and screenshots
-
----
-
-## 📅 Development Sprint
-
-| Days | Phase |
-|------|-------|
-| 1–2 | Repo setup, wireframes, role assignment |
-| 3–7 | Core game loop, physics, track design, basic site |
-| 8–11 | Ghost system, HUD polish, website integration |
-| 12–13 | Bug fixes, cross-browser testing, README + screenshots |
-| 14 | Final defence and walkthrough |
-
----
-
-*© 2025 Binary Lap Studios — Built for 2nd Year IT Game Development*
