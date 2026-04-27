@@ -8,7 +8,7 @@
 
 ## 🎮 Play Now
 
-👉 **[Play on GitHub Pages](https://Tolits16.github.io/apex-dash/game/)**
+👉 **[Play on GitHub Pages](https://tolits16.github.io/Apex-dash/index.html)**
 
 No installation. No downloads. Opens directly in your browser.
 
