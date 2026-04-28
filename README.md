@@ -1,14 +1,14 @@
 # 🏎️ Apex Dash — Time Trial Racing
 
 > A fast-paced, browser-based top-down time trial racer built with HTML5 Canvas and vanilla JavaScript.
-
+👉 **[Landing Page](https://tolits16.github.io/Apex-dash/team.html)**
 **Binary Lap Studios** · 2nd Year IT Game Development · 14-Day Sprint Project
 
 ---
 
 ## 🎮 Play Now
 
-👉 **[Play on GitHub Pages](https://Tolits16.github.io/apex-dash/game/)**
+👉 **[Play on GitHub Pages](https://tolits16.github.io/Apex-dash/)**
 
 No installation. No downloads. Opens directly in your browser.
 
